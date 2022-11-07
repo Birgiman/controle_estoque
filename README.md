@@ -1,1 +1,1 @@
-Projeto desenvolvido para fins acadêmicos. / Project developed for academic purposes.
+Projeto criado em Java para controlar o estoque de uma empresa desenvolvido durante meu aprendizado acadêmico.
